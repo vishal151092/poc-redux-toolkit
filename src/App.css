@@ -1,0 +1,35 @@
+#root {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  
+}
+
+.content{
+  border: 1px solid gray;
+  padding: 2em;
+}
+.user-table{
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  gap: 2em;
+}
+.user-heading{
+  font-size: x-large;
+  font-family: 'Courier New', Courier, monospace;
+  
+}
+
+.user-list{
+  list-style-type: none;
+}
+
+.user-list li{
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+}
+
