@@ -2,7 +2,6 @@
 <html>
 
 <head>
-<script src="readme.js"></script>
   <style>
     .container {
       display: flex;
@@ -166,7 +165,7 @@
 
 <h3 style="color: orange;">SAMPLE TABS</h3>
 
-<div  class="container-setup-guide">
+<!-- <div  class="container-setup-guide">
     <div class="tab">
         <button class="tablinks" onclick="showContent(event, 'London')">London</button>
         <button class="tablinks" onclick="showContent(event, 'Paris')">Paris</button>
@@ -189,9 +188,7 @@
 </div>
 
 
-</div>
-
-
+</div> -->
 
 </body>
 
